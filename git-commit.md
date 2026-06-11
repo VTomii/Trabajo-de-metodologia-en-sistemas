@@ -10,4 +10,6 @@ git commit -m "mensaje"
 
 Importancia de los mensajes
 
+## Usos
 Se recomienda que cada commit represente una unica idea o cambio concreto. De esta manera, el historial del proyecto resulta mas claro y sencillo, por ejemplo una vez que este archivo quede modificado, usare git add git-commit.md y proximamente git commit -m junto a un mensaje para ir actualizando los cambios en el repo
+Por otro lado los commits realizados permanecen inicialmente en el repositorio local. Para compartirlos con otros integrantes del equipo, es necesario utilizar comandos como *git push*, que permiten sincronizar los cambios con el repositorio remoto.
