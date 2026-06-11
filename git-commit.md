@@ -4,8 +4,7 @@ El comando git commit se utiliza para guardar de manera permanente los cambios q
 Cada commit representa un momento o etapa del proecto y permite llevar un registro ordenado de las modificaciones 
 cada commit tiene informacion como quien es el autor de este, la fecha en que fue realizado y un mensaje que escribe quien hace el commit que ayuda o describe que se cambio entre comillas
 
-Sintaxis
-
+## Sintaxis
 git commit -m "mensaje"
 
 Importancia de los mensajes
