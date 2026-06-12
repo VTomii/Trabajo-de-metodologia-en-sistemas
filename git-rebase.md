@@ -1,3 +1,9 @@
 # Git Rebase
 
-La funcion de git rebase es agarrar commits de la rama en donde estas y moverlos , es decir si **estas parado en una rama X y vos queres mover los commits a la rama Y. este comando reescribe los commits y los agrega a la rama que elegiste pero al final del historial de commits de la rama y es importante saber que no son los mismos commits que la rama original. sino que los replica en la rama Y**
+Concepto:
+
+git rebase es "mover la rama donde estas hasta el final del historial de la rama que elijas" , es decir si **estas parado en una rama X y vos queres basarte en la rama Y. este comando hace que la rama (X) vaya al final del historial de commits de la rama (Y) y luego agrega los commits de la rama X. Es importante saber que los commits de la rama X son replicadas y creadas nuevamente en la rama Y (NO SON LOS MISMOS COMMITS)**
+
+##Sintaxis:
+
+git rebase nombre-de-rama
