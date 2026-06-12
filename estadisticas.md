@@ -1,4 +1,5 @@
 # Integrante que realizo la mayor cantidad de commits,
+
 Comando utilizado:
 `git shortlog -sn --all`
 
@@ -15,6 +16,7 @@ al usar el comando:
 5 Priscila Arrimada
 
 # Cantidad total de merges realizados
+
 Comando utilizado:
 
 `git rev-list --merges --count HEAD`
@@ -24,8 +26,8 @@ Resultado:
 9 merges
 
 # Cantidad de conflictos producidos
-Git no almacena un contador de conflictos resueltos.
 
+Git no almacena un contador de conflictos resueltos.
 
 Cantidad de ramas existentes en el repositorio,
 Comando utilizado:
@@ -76,4 +78,4 @@ Mensaje del commit:
 
 style(docs): unifico formato de los docs y corrijo redaccion
 
-
+[Captura](Capturas/Captura del hash.png)
