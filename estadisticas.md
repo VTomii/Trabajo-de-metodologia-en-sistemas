@@ -4,7 +4,7 @@ Comando utilizado:
 
 Resultado:
 
-Valenguerrieri: 12 commits
+Valenguerrieri: 14 commits
 
 **Observacion:**
 Git registra a "VTomii" y "Vtomii" como autores distintos debido a diferencias en la configuración del nombre de usuario.
